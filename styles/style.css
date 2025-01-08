@@ -92,7 +92,7 @@ ol {
 
 .result {
   grid-area: result;
-  height: 456px;
+  
 }
 
 .result__video-container {
@@ -187,7 +187,7 @@ ol {
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
   color: #FFFFFF;
-  
+  margin-bottom: 5px;
 
 }
 
